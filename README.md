@@ -12,11 +12,6 @@ pip install -r requirements.txt
 ```
 
 ## Cara menjalankan Migrasi
-1. Generate file migration
-```
-./manage.py makemigrations todo
-```
-2. Jalankan migrasi
 ```
 ./manage.py migrate
 ```
